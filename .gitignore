@@ -4,9 +4,10 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-Assets/AssetStoreTools*
+
 # Allow pushing WebGL builds to Github Pages
 !docs/Build
+Assets/AssetStoreTools*
 
 # macOS
 .DS_Store
