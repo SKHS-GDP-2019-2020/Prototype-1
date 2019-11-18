@@ -4,7 +4,8 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-# Allow pushing WebGL builds to GitHub Pages
+
+# Allow pushing WebGL builds to Github Pages
 !docs/Build
 Assets/AssetStoreTools*
 
