@@ -3,6 +3,7 @@
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
+!docs/Build
 [Bb]uilds/
 # Allow pushing WebGL builds to GitHub Pages
 !docs/Build
